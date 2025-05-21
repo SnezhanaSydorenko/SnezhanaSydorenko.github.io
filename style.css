@@ -553,4 +553,8 @@ footer {
   .work-item em {
     line-height: 1.6rem;
   }
+
+  .image img {
+    padding-top: 105px;
+  }
 }
