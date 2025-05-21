@@ -552,8 +552,18 @@ footer {
   .work-item em {
     line-height: 1.6rem;
   }
-
+  .image {
+    box-shadow: none;
+  }
   .image img {
-    padding-top: 105px;
+    padding-top: 170px;
+    min-height: 900px;
+    height: auto;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  .write {
+    margin-top: 0;
   }
 }
